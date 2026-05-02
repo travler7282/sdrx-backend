@@ -13,5 +13,5 @@
 ## Checklist
 - [ ] Tested locally against dev environment
 - [ ] No secrets committed
-- [ ] `npm run build:all` passes
-- [ ] Version bumped in package.json/pyproject.toml (if applicable)
+- [ ] `npm run build` passes
+- [ ] Version bumped in `package.json` (if applicable)
